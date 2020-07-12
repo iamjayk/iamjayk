@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Atlassian cloud platform
+- 🔭 I’m currently working on Atlassian cloud platform (link):[https://atlaskit.atlassian.com]
 - 🌱 I’m currently learning to play an electric guitar on Rocksmith
 - 👯 I’m looking to collaborate on any open-source react libraries
 - 💬 Ask me about closures in JavaScript
