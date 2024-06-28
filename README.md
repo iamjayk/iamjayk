@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 -  I’m looking to collaborate on any open-source JavaScript projects
 -  Ask me about performance in ReactJS, Virtualizing the DOM, GraphQL, and anything Python/Django
 -  How to reach me: ajay8293@gmail.com
--  Pronouns: he/him
