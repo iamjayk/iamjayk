@@ -39,4 +39,4 @@ With ~8 years in the **React/TypeScript/Next.js** ecosystem, I’ve shipped prod
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://linkedin.com/in/YOURNAME](https://www.linkedin.com/in/ajay-kumar-62932a21/)
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ajay-kumar-62932a21/)
