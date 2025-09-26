@@ -28,7 +28,7 @@ With ~8 years in the **React/TypeScript/Next.js** ecosystem, I’ve shipped prod
 ---
 
 ### 📈 GitHub Stats
-![Ajay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Ajay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjayk&show_icons=true&theme=radical)
 
 ---
 
