@@ -27,11 +27,6 @@ With ~8 years in the **React/TypeScript/Next.js** ecosystem, I’ve shipped prod
 
 ---
 
-### 📈 GitHub Stats
-![Ajay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjayk&show_icons=true&theme=radical)
-
----
-
 ### 🌏 Outside Code
 - 🏍️ Riding & maintaining my **Husqvarna Svartpilen 401**  
 - 📚 Learning **Japanese** (currently: intermediate level)  
